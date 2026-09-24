@@ -8,7 +8,7 @@
 <!--height=220&section=header&text=SIDHARTH%20SALUGU&fontSize=54&fontColor=E6FFED&fontAlignY=36&desc=%2F%2F%20AI%2FML%20%C2%B7%20Open%20Source%20%C2%B7%20Software%20Dev%20%C2%B7%20Game%20Dev&descSize=18&descAlignY=58)
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=900&color=7EE787&center=true&vCenter=true&width=520&lines=%5B+ok+%5D+loading+curiosity...;%5B+ok+%5D+mounting+caffeine...;%5Bwarn%5D+too+many+tabs+open;%5Bfail%5D+motivation.dll+not+found;%5B+ok+%5D+fallback:+coffee.dll+loaded;%5Bwarn%5D+rubber+duck+is+judging+my+code;%5B+ok+%5D+git+blame:+it+was+me;%5B+ok+%5D+ready+to+contribute)](https://github.com/Shidoizuo)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=900&color=7EE787&center=true&vCenter=true&width=520&lines=%5B+ok+%5D+loading+curiosity...;%5B+ok+%5D+mounting+caffeine...;%5Bwarn%5D+too+many+tabs+open;%5Bfail%5D+motivation.dll+not+found;%5B+ok+%5D+fallback:+coffee.dll+loaded;%5Bwarn%5D+rubber+duck+is+judging+my+code;%5B+ok+%5D+git+blame:+it+was+me;%5B+ok+%5D+ready+to+contribute)](https://github.com/Shidoizuo)
 
 ![status](https://img.shields.io/badge/currently-Final%20Year%20CSE%20%28AI%2FML%29-7EE787?style=flat-square&labelColor=0B0E14)
 ![open to](https://img.shields.io/badge/open%20for-Internships-4A5568?style=flat-square&labelColor=0B0E14)
